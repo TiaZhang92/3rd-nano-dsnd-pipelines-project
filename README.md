@@ -1,6 +1,5 @@
-# Project Title
+# StyleSense Fashion Review Recommendation Prediction Pipeline
 
-StyleSense Fashion Review Recommendation Prediction Pipeline
 
 ## Getting Started
 
