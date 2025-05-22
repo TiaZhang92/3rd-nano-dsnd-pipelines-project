@@ -41,8 +41,8 @@ List out the steps
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/fashion-recommendation-pipeline.git
-cd fashion-recommendation-pipeline
+git clone https://github.com/TiaZhang92/3rd-nano-dsnd-pipelines-project
+
 
 2. Create a virtual environment
 
@@ -62,7 +62,7 @@ nltk.download('vader_lexicon')
 
 5. Launch Jupyter Notebook
 
-jupyter notebook ml-pipeline-solution.ipynb
+jupyter notebook starter.ipynb
 
 ## Testing
 
