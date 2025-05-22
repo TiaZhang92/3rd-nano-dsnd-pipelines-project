@@ -121,7 +121,6 @@ ROC-AUC for probability-based evaluation
 Confusion Matrix for detailed performance analysis
 
 ## Built With
-Built With
 
 Scikit-learn - Machine learning library for pipeline creation and model training
 Pandas - Data manipulation and analysis
@@ -135,4 +134,4 @@ TextBlob - Simplified text processing (for future enhancements)
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.txt file for details.
+This project is licensed under the Udacity License - see the (https://creativecommons.org/licenses/by-nc-nd/4.0/) file for details.
